@@ -40,40 +40,7 @@ avviare il programma e inserire il file freq.txt
 
 
 ## HINT PER L'ESERCIZIO
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 L'intestazione di tutti i libri è uguale e inizia con:
 This eBook is for the use of anyone anywhere in United States and most parts of the world
 at no cost and...
